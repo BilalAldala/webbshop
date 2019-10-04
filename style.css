@@ -1,0 +1,149 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+
+*/
+/* 
+    Created on : 2019-okt-01, 20:19:15
+    Author     : bilal
+*/
+
+.w3-content{
+    max-width:1200px
+}
+.logo{
+    width:200px;
+    height:100px;
+    position: relative; 
+    left:-80px; 
+    top:-20px
+}
+.addtocart{
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.5;
+    font-weight: 300;
+    color: #969696;
+    -webkit-font-smoothing: antialiased;text-shadow: rgba(0,0,0,.01) 0 0 1px;
+}
+.logo2{
+    width:200px;
+    height:100px;
+    position: relative; 
+    left:2px; 
+    top:10px;
+}
+.text{
+    position: relative; 
+    top: 20px; 
+    right: 20px
+}
+.fa-shopping-cart{
+    position: relative; 
+    top:30px;
+    left: 95px;
+    height:1em;
+    font-size: 2em; 
+    color: lightblue
+}
+
+.items .fa-shopping-cart{
+    height:10em; 
+    font-size: 5em; 
+    position: relative; 
+    top:-40px; 
+    left:120px;
+}
+
+.items .fa-shopping-bag{
+    height:10em; 
+    font-size: 4em; 
+    position: relative; 
+    top:-30px; 
+    left:120px; 
+    color: lightblue;
+}
+
+.fa-user-circle-o{
+    position: relative; 
+    top:30px;
+    left: 45px;
+    height:1em;
+    font-size: 2em; 
+    color: lightblue;
+}
+.dropdwoncustom{
+    width: 200px;
+    border-radius: 20px;
+    border: 2px solid lightblue;
+    height: 50px;
+}
+.linje{
+    position: relative;
+    top:-60px; 
+    left:-100px; 
+    border-top: 2px solid lightblue;
+    width: 1500px;
+}
+
+.linje2{
+    position: relative;
+    top:-5px; 
+    left:-100px; 
+    border-top: 2px solid lightblue;
+    width: 1520px;
+}
+
+.homepic{
+    width:400px;
+    height:225px;
+}
+.itempic{
+    width:600px;
+    height:425px;
+}
+.keyboard{
+    width:270px;
+    height:150px;
+}
+
+.w3-container .indexbutton{
+    position: absolute;
+    top:125px;
+    right:-190px;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: transparent;   
+    font-size: 16px;
+    padding: 175px 270px 50px 100px;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    border-color: transparent;
+    border-radius: 5px;
+    text-align: center;
+}
+.ivs2{
+    width: 270px;height: 50px;text-indent: -9000px; text-transform: capitalize;position: relative; top: -75px;background-color: transparent;
+    cursor: pointer;
+    border-color: transparent;
+    border-radius: 5px;
+    text-align: center;
+}
+.inv2{
+    position: relative;
+    right: 45px;
+    top:-8px;
+    width: 25px;
+    cursor: pointer;
+    border-color: transparent;
+    border-radius: 5px;
+    text-align: center;
+    text-indent: -9000px;
+    text-transform: capitalize;
+    position: relative; 
+    top: -75px;
+    background-color: transparent;
+}
+
